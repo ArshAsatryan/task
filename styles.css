@@ -1,0 +1,104 @@
+
+body{
+    background: url(https://mosplitka.ru/upload/iblock/31c/31ca4db7588121e261487495860c0793.jpg);
+}
+.header{
+    background-color: white;
+    margin: 0;
+    padding: 1%;
+    width: 100%;
+}
+
+#options{
+ margin-left:25%;
+}
+
+.nav{
+    margin-left:70%;
+}
+.img1{
+    width: 100%;
+}
+
+.img2{
+    width: 100%;
+    height: 20%;
+}
+.articles{
+    display: flex;
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+    color: rgb(6, 6, 88);
+}
+h2{
+    color: rgb(6, 6, 88);;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+}
+
+#about_us{
+    text-align: center;
+ }
+
+ span{
+    margin: 20px;
+ }
+.industries{
+     text-align: center;
+    font-size: 18px;
+ }
+ .items{
+     text-align: center;
+ }
+ .black_pannel{
+     width: 100%;
+     height: 300px;
+     background-color: black;
+     margin-top: 20px;
+     margin-bottom: 30px;
+ }
+
+ .referVal{
+     color: white;
+     text-align: center;
+     padding-top: 30px;
+     font-size: 40px;
+ }
+
+ .refText{
+     color: white;
+     font-size: 35px;
+     text-align: center;
+    margin: 0;
+ }
+ .refMail{
+     color: rgb(245, 225, 40);
+     font-size: 35px;
+     margin-top: 5px;
+ }
+ .address{
+     margin-top: 50px;
+     display: flex;
+     justify-content: center;
+     flex: none;
+     width: 100%;
+ }
+ .form_block{
+    width: 48%;
+    display: block;
+    margin-right: 10%;
+    text-align: left;
+ }
+ .message_block{
+     text-align: inherit;
+ }
+ .map{
+      width: 48%;
+      display: block;
+      
+   }
